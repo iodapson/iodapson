@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iodapson
-- 👀 I’m interested in React & NodeJS.
-- 🌱 I’m currently learning Blender and taking the FullStackOpen 2021 course from the University of Helsinki
-- 💞️ I’m looking to collaborate on React projects
+- 👀 I’m interested in Rust, React & NodeJS.
+- 🌱 I’m currently writing Rust code 80% of the time
+- 💞️ I’m looking to collaborate on Solana and React projects
 - 📫 You can reach me on iodapson@gmail.com ...
 
 <!---

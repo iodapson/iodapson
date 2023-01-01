@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iodapson
-- 👀 I’m interested in Rust, Slint, Yew, React.
+- 👀 I’m interested in Rust axum, Yew, egui, Slint, and React.
 - 🌱 I use Rust 90% of the time.
 - 💞️ I love backend development and writing CLI apps.
 <!--- 📫 You can reach me on iodapson@gmail.com ...--->

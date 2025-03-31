@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iodapson
-- 👀 I’m interested in Rust axum, Leptos, Yew, egui, Slint, and React.
-- 🌱 I use Rust 90% of the time.
+- 👀 I’m interested in Solana, Dart, Flutter, Rust Axum, Leptos, Yew.
+- 🌱 I write techical documentations 75% of the time.
 - 💞️ I love backend development and writing CLI apps.
 <!--- 📫 You can reach me on iodapson@gmaildotcom ...--->
 
